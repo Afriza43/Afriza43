@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Afriza43
-- 👀 I’m interested in Technology
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Afriza Andhana
+- 👀 I’m interested in Technology, and Visual Graphic
+- 🌱 I’m currently learning Web Development, and Data Science
+<!--- - 💞️ I’m looking to collaborate on ... --->
+- 📫 Let's connect in Linkedin : afrizaandhana8
 
 <!---
 Afriza43/Afriza43 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
